@@ -19,7 +19,7 @@ style: primary
 label: Initialize Button
 actions:
   - type: replaceSelf
-    replacement: z_Templates/Tobacco_Review_Button_Template.md
+    replacement: z_Templates/Pipe_Tobacco_Review_Button_Template.md
     templater: True
 ```
 ## Flavors Notes
